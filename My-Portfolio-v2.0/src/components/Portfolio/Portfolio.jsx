@@ -5,22 +5,22 @@ const Portfolio = () => {
   // Example array of portfolio items
   const portfolioItems = [
     {
-      title: 'Project One',
+      title: 'Unity Biz',
       description: 'A brief description of Project One...',
-      imageUrl: '/path-to-image-1.jpg',
-      link: '#'
+      imageUrl: './assets/unitybiz.png',
+      link: 'https://unitybiz-fd2efb602da8.herokuapp.com/'
     },
     {
-      title: 'Project Two',
+      title: 'Fandora',
       description: 'A brief description of Project Two...',
       imageUrl: '/path-to-image-2.jpg',
-      link: '#'
+      link: 'https://keybit-1.github.io/Fandora/'
     },
     {
-      title: 'Project Three',
+      title: 'Note Taker App',
       description: 'A brief description of Project Three...',
       imageUrl: '/path-to-image-3.jpg',
-      link: '#'
+      link: 'https://ths-note-app-216bf97f5052.herokuapp.com/'
     },
     // Add more projects as needed
   ];
